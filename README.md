@@ -1,2 +1,2 @@
-# metcamp-api-rest-mongodb
-Curso de MongoDB para el MeTCaMP 2020
+# metcamp-api-peliculas
+API Rest de ejercitación para el curso MondogDB de MeTCaMP
